@@ -8,7 +8,7 @@ const Home = () => {
     return(
         <>
             <Navbar />
-            <h2 className = 'header-home'>OUR PRODUCTS</h2>
+            <h2 className = 'header-home'>OUR PRODUCTS Main</h2>
             <div className="grid-container">
                 <div
                     className="grid-item"
