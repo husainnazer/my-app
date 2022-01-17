@@ -17,7 +17,7 @@ const Login = () => {
                     className="goback-button-login"
                 />
                 <div className="login-container">
-                    <p className="login-header">Login</p>
+                    <p className="login-header">Login Duplicate</p>
                     <div className="login-email-input-container">
                         <label>Email</label>
                         <input
